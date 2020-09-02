@@ -31,13 +31,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Monthly Heart Rate
-    description                           : CardioBot presents daily Heart Rate average in a beautiful calendar view during the month.
-    fontawesome_icon_name                 : calendar-alt
+  - title                                 : Heart Rate Points
+    description                           : Track your daily heart points to keep your heart healthy.
+    fontawesome_icon_name                 : walking
     
   - title                                 : Daily Heart Rate
     description                           : CardioBot presents daily Heart Rate summary chart based on your HR zones.
     fontawesome_icon_name                 : heartbeat
+    
+  - title                                 : Monthly Heart Rate
+    description                           : CardioBot presents daily Heart Rate average in a beautiful calendar view during the month.
+    fontawesome_icon_name                 : calendar-alt
 
   - title                                 : Heart Rate Variability
     description                           : CardioBot calculates your Heart Rate Variability baseline/trend during the 40 days, and show you daily sample analysis.
@@ -50,21 +54,17 @@ features                                  :
   - title                                 : Sleep
     description                           : By wearing Apple Watch during the sleep you enable Sleep analysis in CardioBot. It presents your sleep quality and sleep heart rate analysis.
     fontawesome_icon_name                 : bed
-
-  - title                                 : Walking Heart Rate
-    description                           : CardioBot makes Walking Heart Rate analysis to calculate and show your overall physical activity state.
-    fontawesome_icon_name                 : walking
   
   - title                                 : Workout
     description                           : CardioBot makes your Heart Rate analysis during workout to calculate your workout quality score.
     fontawesome_icon_name                 : running
 
-  - title                                 : Detailed per minute charts
-    description                           : You can check detailed per minute heart rate charts with heart rate zone indication.
+  - title                                 : Trends
+    description                           : CardioBot enables historical data analysis that helps you to understand how new habits influence your heart.
     fontawesome_icon_name                 : chart-bar
 
-  - title                                 : Recommendation system
-    description                           : CardioBot powered by smart recommendation system, which analyze you Heart Rate and give you recommendations on improving every aspect of your heart.
+  - title                                 : American Heart Association Recommendations
+    description                           : CardioBot powered by smart recommendation system, which analyze you Heart Rate and give you recommendations on improving every aspect of your heart using AHA studies.
     fontawesome_icon_name                 : comments
 
   - title                                 : # New Feature Title
