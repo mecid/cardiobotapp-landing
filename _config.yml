@@ -43,12 +43,12 @@ features                                  :
     description                           : CardioBot calculates your Heart Rate Variability baseline/trend during the 40 days, and show you daily sample analysis.
     fontawesome_icon_name                 : balance-scale
 
-  - title                                 : Sedentary Heart Rate
-    description                           : CardioBot makes Sedentary Heart Rate analysis to understand your cardio health.
+  - title                                 : Resting Heart Rate
+    description                           : CardioBot makes Resting Heart Rate analysis to understand your cardio health.
     fontawesome_icon_name                 : chair
     
-  - title                                 : Sleep and Weekly Sleep
-    description                           : By wearing Apple Watch during the sleep you enable Sleep analysis in CardioBot. It presents your sleep quality and calculates weekly sleep goal achievement.
+  - title                                 : Sleep
+    description                           : By wearing Apple Watch during the sleep you enable Sleep analysis in CardioBot. It presents your sleep quality and sleep heart rate analysis.
     fontawesome_icon_name                 : bed
 
   - title                                 : Walking Heart Rate
