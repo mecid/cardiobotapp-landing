@@ -39,9 +39,9 @@ features                                  :
     description                           : CardioBot presents daily Heart Rate summary chart based on your HR zones.
     fontawesome_icon_name                 : heartbeat
     
-  - title                                 : Monthly Heart Rate
-    description                           : CardioBot presents daily Heart Rate average in a beautiful calendar view during the month.
-    fontawesome_icon_name                 : calendar-alt
+  - title                                 : Blood Oxygen
+    description                           : CardioBot presents Blood Oxygen analysis. The very important metric during COVID-19 pandemic.
+    fontawesome_icon_name                 : lungs
 
   - title                                 : Heart Rate Variability
     description                           : CardioBot calculates your Heart Rate Variability baseline/trend during the 40 days, and show you daily sample analysis.
