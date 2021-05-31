@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Resting Heart Rate
     description                           : CardioBot makes Resting Heart Rate analysis to understand your cardio health.
-    fontawesome_icon_name                 : chair
+    fontawesome_icon_name                 : stethoscope
     
   - title                                 : Sleep
     description                           : By wearing Apple Watch during the sleep you enable Sleep analysis in CardioBot. It presents your sleep quality and sleep heart rate analysis.
