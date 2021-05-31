@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : American Heart Association
-    description                           : CardioBot powered by smart recommendation system, which analyze you Heart Rate and give you recommendations on improving every aspect of your heart using AHA studies.
+    description                           : CardioBot powered by smart recommendation system, which helps you to improve every aspect of your heart using AHA studies.
     fontawesome_icon_name                 : comments
 
   - title                                 : # New Feature Title
