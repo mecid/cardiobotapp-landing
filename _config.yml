@@ -47,8 +47,8 @@ features                                  :
     description                           : CardioBot calculates your Heart Rate Variability baseline/trend during the 40 days, and show you daily sample analysis.
     fontawesome_icon_name                 : balance-scale
 
-  - title                                 : Resting Heart Rate
-    description                           : CardioBot makes Resting Heart Rate analysis to understand your cardio health.
+  - title                                 : Blood Pressure
+    description                           : CardioBot provides you Blood and Pulse pressure tracking functionality and medication effectiveness analysiss.
     fontawesome_icon_name                 : stethoscope
     
   - title                                 : Sleep
