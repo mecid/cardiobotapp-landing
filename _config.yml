@@ -45,7 +45,7 @@ features                                  :
     
   - title                                 : Blood Oxygen
     description                           : CardioBot presents Blood Oxygen analysis. The very important metric during COVID-19 pandemic.
-    fontawesome_icon_name                 : lungs
+    fontawesome_icon_name                 : brain
 
   - title                                 : Heart Rate Variability
     description                           : CardioBot calculates your Heart Rate Variability baseline/trend during the 40 days, and show you daily sample analysis.
