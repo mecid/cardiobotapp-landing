@@ -7,7 +7,7 @@ include_in_header: false
 **Last updated**  
 August 1 2019
 
-# Terms & Privacy Policy
+# Terms of Use & Privacy Policy
 Your privacy is critically important to us. Your data is your own. We make no claims to it and will only use it according to the policies outlined below.
 If you have questions about deleting or correcting your personal data please contact our support team.
     
